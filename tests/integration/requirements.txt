@@ -1,0 +1,7 @@
+pytest
+python-socketio
+websockets
+PyYAML
+pytest-asyncio
+requests
+pathlib

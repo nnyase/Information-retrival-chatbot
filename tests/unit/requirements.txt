@@ -1,0 +1,9 @@
+pytest
+fastapi
+transformers[torch]
+rasa-sdk
+keras==2.6.*
+pytest-asyncio
+beautifulsoup4
+mtranslate
+python-socketio
