@@ -1,5 +1,10 @@
 # information-retrival-bot
 
+## Tech Stack
+<img src ="
+##Pipeline Sketch
+<img src ="https://github.com/nnyase/Information-retrival-chatbot/blob/main/img/PipelineSketch.png">
+
 ## Build
 
 ```bash
