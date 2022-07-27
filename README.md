@@ -1,5 +1,8 @@
 # information-retrival-bot
 
+## Powerpoint on Chatbot
+- 🎯 Chatbot Powerpoint: [Powerpoint](https://github.com/nnyase/Information-retrival-chatbot/blob/main/Chatbot%20Presentation.pdf)
+
 ## Tech Stack
 <img src ="https://github.com/nnyase/Information-retrival-chatbot/blob/main/img/techstack.png">
      
